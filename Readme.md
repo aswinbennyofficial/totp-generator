@@ -3,7 +3,7 @@
 ![](totp-generator.png)
 
 ## Preview
-[Demo](https://aswinbennyofficial.github.io/totp-generator/public/index.html)
+[Demo](http://totp.aswinbenny.in/)
 
 This page lets you easily generate a time-based one time password (TOTP) entirely in the web browser in case you ever lose access to your phone.
 
